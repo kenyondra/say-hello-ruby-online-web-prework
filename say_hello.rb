@@ -1,5 +1,5 @@
 # Build your say_hello method here
 say_hello("Gabriela")
 def greeting
-  puts "Hello, Gabriela"
+  puts "say_hello,Gabriela"
 end
